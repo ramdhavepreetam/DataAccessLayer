@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./img/ff_logo2013.png" width="200px">
-  <h1>Project name</h1>
+  <h1>.NET Core Data Access Layer</h1>
 </div>
 
 <p align="center">
@@ -10,7 +10,7 @@ I have tried to create abstraction around the data communication . You have to a
 With  Sql , OleDb, Odbc connections 
 </p>
 
-[![Add Badges](https://img.shields.io/badge/add%20badges-here-green.svg)
+ 
 
 > **Note:** My next plan is to add snowflake connection in the data access layer.
 
@@ -28,7 +28,9 @@ It is very simple to use this lib.
 
 *  You dowonload the lib. project from the master branc. 
 *  You add the refrance to your Business layer. 
-e.g 
+
+## Example Code to Access storeproc.
+
 ```C#
 using DataAccessLayer;
 using DataAccessLayer.ExtensionMethod;
