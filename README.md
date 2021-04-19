@@ -70,7 +70,7 @@ using DataAccessLayer.ExtensionMethod;
  
 
 
-## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/inessadl/readme/issues)
+## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ramdhavepreetam/DataAccessLayer/issues)
 
 Thank you for considering contributing to Data Access Layer!
 
