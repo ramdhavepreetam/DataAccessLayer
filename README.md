@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./img/ff_logo2013.png" width="200px">
+ 
   <h1>.NET Core Data Access Layer</h1>
 </div>
 
